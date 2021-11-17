@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shnk088
+- 👋 Hi, I’m shashank kumar
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning full stack web development
 - 📫 gmail- shnk088@gmail.com
