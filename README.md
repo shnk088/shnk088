@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shashank kumar
-- 👀 I’m interested in codeing
-- 🌱 I’m currently learning full stack web development
+- 👀 @Associate at Cognizant technology solution
+- 🌱 DATA_Engineer
 - 📫 gmail- shnk088@gmail.com
 
 <!---
